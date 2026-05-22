@@ -1,0 +1,4 @@
+ali,Ali ahmed,Ali@1234567,ali@gmail.com,gold,11-05-2027,Active,3000
+ahmed,Ahmed ali,Ahmed@2007,ahmed@gmail.com,basic,Lifetime,Active,1500
+sameen,Sameen Fatima,Sameen@2008,sameen@gmail.com,basic,Lifetime,Active,1000
+waheed,Waheed ali,Waheed@123,waheed@gmail.com,silver,21-05-2027,Active,2200

@@ -1,0 +1,70 @@
+CS-103,Object Oriented Programming in C++,Robert Lafore,Computer Science,1
+CS-104,Programming in C++,Bjarne Stroustrup,Computer Science,1
+CS-105,Discrete Mathematics and Its Applications,Kenneth Rosen,Mathematics,1
+CS-106,Digital Logic Design,Morris Mano,Electronics,1
+CS-107,Computer Organization and Architecture,William Stallings,Computer Science,1
+CS-108,Operating System Concepts,Abraham Silberschatz,Computer Science,1
+CS-109,Computer Networks,Andrew Tanenbaum,Networking,1
+CS-110,Database System Concepts,Abraham Silberschatz,Database,1
+CS-111,Harry Potter and the Deathly Hallows,J.K. Rowling,Novel,1
+CS-112,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science,1
+CS-113,Machine Learning,Tom M. Mitchell,Computer Science,1
+CS-114,Deep Learning,Ian Goodfellow,Computer Science,1
+CS-115,Pattern Recognition and Machine Learning,Christopher Bishop,Computer Science,1
+CS-116,The C Programming Language,Dennis Ritchie,Computer Science,1
+CS-117,Clean Code,Robert C. Martin,Computer Science,1
+CS-118,Design Patterns,Erich Gamma,Computer Science,1
+CS-119,Refactoring,Martin Fowler,Computer Science,1
+CS-120,The Pragmatic Programmer,Andrew Hunt,Computer Science,1
+CS-121,Introduction to the Theory of Computation,Michael Sipser,Computer Science,1
+CS-122,Compilers: Principles Techniques and Tools,Alfred Aho,Computer Science,1
+CS-123,Modern Operating Systems,Andrew Tanenbaum,Computer Science,1
+CS-124,Computer Graphics,Donald Hearn,Computer Science,1
+CS-125,Data Mining Concepts and Techniques,Jiawei Han,Computer Science,1
+CS-126,Software Engineering,Ian Sommerville,Computer Science,1
+CS-127,Computer Security,William Stallings,Computer Science,1
+CS-128,Distributed Systems,Andrew Tanenbaum,Computer Science,1
+CS-129,Cloud Computing,Rajkumar Buyya,Computer Science,1
+CS-130,Big Data Fundamentals,Thomas Erl,Computer Science,1
+CS-131,Blockchain Basics,Daniel Drescher,Computer Science,1
+CS-132,Game Programming Patterns,Robert Nystrom,Computer Science,1
+CS-133,Computer Vision,Richard Szeliski,Computer Science,1
+CS-134,Natural Language Processing,Dan Jurafsky,Computer Science,1
+CS-135,Reinforcement Learning,Richard Sutton,Computer Science,1
+CS-136,Ethical Hacking,Michael Gregg,Computer Science,1
+CS-137,Android Programming,Bill Phillips,Computer Science,1
+CS-138,iOS Programming,Roland Henne,Computer Science,1
+CS-139,Web Development and Design,Jon Duckett,Computer Science,1
+CS-140,Java Programming,Herbert Schildt,Computer Science,1
+CS-141,Python Crash Course,Eric Matthes,Computer Science,1
+CS-142,The Lord of the Rings,J.R.R. Tolkien,Novel,1
+CS-143,The Hobbit,J.R.R. Tolkien,Novel,1
+CS-144,To Kill a Mockingbird,Harper Lee,Novel,1
+CS-145,1984,George Orwell,Novel,0
+CS-146,The Great Gatsby,F. Scott Fitzgerald,Novel,1
+CS-147,Pride and Prejudice,Jane Austen,Novel,1
+
+MT-101,Calculus and Analytical Geometry,Thomas and Finney,Mathematics,1
+MT-102,Linear Algebra and Its Applications,Gilbert Strang,Mathematics,1
+MT-103,Discrete and Combinatorial Mathematics,Ralph Grimaldi,Mathematics,1
+MT-104,Advanced Engineering Mathematics,Erwin Kreyszig,Mathematics,1
+MT-105,Probability and Statistics,Morris DeGroot,Mathematics,1
+MT-106,Introduction to Probability,Dimitri Bertsekas,Mathematics,1
+MT-107,Mathematical Methods for Engineers,K.F. Riley,Mathematics,1
+
+EE-101,Circuit Analysis,Hayt and Kemmerly,Electrical Engineering,1
+EE-102,Signals and Systems,Oppenheim and Willsky,Electrical Engineering,1
+EE-103,Electronic Devices and Circuit Theory,Robert Boylestad,Electrical Engineering,1
+EE-104,Power System Analysis,Hadi Saadat,Electrical Engineering,1
+EE-105,Control Systems Engineering,Norman Nise,Electrical Engineering,1
+EE-106,Electric Machinery Fundamentals,Stephen Chapman,Electrical Engineering,1
+EE-107,Microelectronic Circuits,Adel Sedra,Electrical Engineering,1
+
+PH-101,University Physics,Young and Freedman,Physics,1
+PH-102,Fundamentals of Physics,David Halliday,Physics,1
+PH-103,Concepts of Modern Physics,Arthur Beiser,Physics,1
+PH-104,Thermodynamics,Enrico Fermi,Physics,1
+PH-105,Classical Mechanics,Herbert Goldstein,Physics,1
+PH-106,Introduction to Electrodynamics,David Griffiths,Physics,1
+cs-148,java,martin groove,novel,1
+CS-150,JAVA,Herbet Schildt,Coding,1
